@@ -1,23 +1,22 @@
-# Permalinks
+# Welcome to Jekyll!
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-# relative_permalinks: true
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Setup
-title:               Zero Kelvin
-tagline:             'Gaining Energy'
-description:         'A Blog on learning to move forward in life'
-url:                 http://blog.kelvincoding.com
-baseurl:             ''
-paginate:            5
+# Site settings
+title: Zero Kelvin
+tagline: 'Gaining Energy'
+email: kelvincoding2@gmail.com
+description: 'Gaining Energy to Move Forward'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://blog.kelvincoding.com" # the base hostname & protocol for your site
+twitter_username: kelvincoding
+github_username:  kelvincoding
+paginate: 5
 
-# About/contact
-author:
-  name:              Kelvin Rodriguez
-  # url:               https://twitter.com/mdo
-  email:             kelvincoding2@gmail.com
-
-# Custom vars
-version:             1.0.0
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, kramdown]
+# Build settings
+markdown: kramdown
+permalink: pretty

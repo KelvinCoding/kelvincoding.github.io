@@ -13,7 +13,7 @@ Researching thoroughly, _Godel's Incompleteness Theorem_ has shaken the foundati
 > Any _consistent_ formal system within which a certain amount of elementary arithmetic can be carried is _incomplete_.
 > Assuming that our formal system is _consistent_ then the formal system cannot prove its own consistency
 
-In summary, any formal system can only be either _consistent_ or _incomplete_. For clarity and conciseness:
+In summary, any formal system can only be either _consistent_ or _complete_. For clarity and conciseness:
 
 > _Completeness_ means that a true statement can be proved to be true within the formal system
 
@@ -21,6 +21,6 @@ In summary, any formal system can only be either _consistent_ or _incomplete_. F
 
 This simple theorem, which I won't prove here, has and is currently restructuring each and every cornerstone of my life. The meaning of this is that anything that we can know, and will know is going to be incomplete. I somewhat understood this since the strive for perfection is not about being perfect, but knowing the areas that we're lacking in and becoming better in it. Due to Godel's theorem we can't know that what we're doing is truly good/bad/etc since we can't prove that we're consistent within our formal system.
 
-So I will never know if what I'm doing is going to be good, bad, right, wrong. The unknowns in my life are perfectly fine for being unknown, but it doesn't mean that I can't come to an small understanding of those unknowns. From the completely  structured life that I've created for myself, to the unfathomable realms of science, mathematics, religion, sociology, etc. I have to have faith that what I base my ideas off of may be entirely wrong in the end.
+So I will never know if what I'm doing is going to be good, bad, right, wrong. The unknowns in my life are perfectly fine for being unknown, but it doesn't mean that I can't come to an small understanding of those unknowns. From the completely  structured life that I've created for myself, to the unfathomable realms of science, mathematics, religion, sociology, etc. I have to have faith in what I believe is right and be consistent.
 
 But that journey, incorporating people I love and care about deeply, is well worth being _incomplete_ and (hopefully) _consistent_.

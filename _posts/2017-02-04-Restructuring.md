@@ -9,10 +9,12 @@ These past few weeks I've been struggling to figure out the next steps in my lif
 I've been reading _Godel Escher Bach_ during this time as it was recommended by a coworker that I regard highly in both a mental peer and a social peer. He was interested in my thoughts on Godel's theorems and how they relate to my everyday actions. He was surprised that I didn't know of Godel's theorems or at least know them in detail to have a meaningful conversation.
 
 Researching thoroughly, _Godel's Incompleteness Theorem_ has shaken the foundation of my life and how I interpret the world around me. I thought the logic of mathematics, and therefore sciences, were strictly consistent and infallible. While Godel's Theorem doesn't state otherwise, it states this:
+
 > 1. Any _consistent_ formal system within which a certain amount of elementary arithmetic can be carried is _incomplete_.
 > 2. Assuming that our formal system is _consistent_ then the formal system cannot prove its own consistency
 
 In summary, any formal system can only be either _consistent_ or _incomplete_. For clarity and conciseness:
+
 > _Completeness_ means that a true statement can be proved to be true within the formal system
 
 > _Consistency_ means that a statement can only be proved to be true or false and not both within the formal system

@@ -10,8 +10,8 @@ I've been reading _Godel Escher Bach_ during this time as it was recommended by 
 
 Researching thoroughly, _Godel's Incompleteness Theorem_ has shaken the foundation of my life and how I interpret the world around me. I thought the logic of mathematics, and therefore sciences, were strictly consistent and infallible. While Godel's Theorem doesn't state otherwise, it states this:
 
-> 1. Any _consistent_ formal system within which a certain amount of elementary arithmetic can be carried is _incomplete_.
-> 2. Assuming that our formal system is _consistent_ then the formal system cannot prove its own consistency
+> Any _consistent_ formal system within which a certain amount of elementary arithmetic can be carried is _incomplete_.
+> Assuming that our formal system is _consistent_ then the formal system cannot prove its own consistency
 
 In summary, any formal system can only be either _consistent_ or _incomplete_. For clarity and conciseness:
 

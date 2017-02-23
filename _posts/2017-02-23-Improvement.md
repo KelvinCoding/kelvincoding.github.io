@@ -10,4 +10,4 @@ That role was given to me because of the accolades that I accumulated throughout
 
 This understanding furthered quickly these past couple of months, though on a social/personal level than a professional level. I started to focus a portion of that insight towards understanding how I worked with my friends and start getting their perspective on how I was to them. Talking with each of them was as insightful as it was joyous. Often I thought that they weren't happy being around me since they always seemed happy regardless of my presence; I thought I wasn't great company since I was unable to hold a conversation properly; I thought our friendship was deteriorating because it wasn't improving as quickly as I anticipated. They all proved my thoughts completely wrong, even gave me some feedback on how I was improving.
 
-I'm slowly becoming more comfortable with this new understanding. There will always be things to improve upon. Just remember that the shoulders of giants that you stand on, are sometimes your own.
+I'm slowly becoming more comfortable with this new understanding. There will always be more things to improve upon.
